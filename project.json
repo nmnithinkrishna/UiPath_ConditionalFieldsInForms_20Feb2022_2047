@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Form.Activities": "[1.9.1]",
+    "UiPath.Persistence.Activities": "[1.3.2]",
     "UiPath.System.Activities": "[21.10.4]"
   },
   "webServices": [],
